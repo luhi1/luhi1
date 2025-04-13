@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="length:75; width:75%" alt = "Mo-Wilems's Pig says hello!" src="mo_hi.gif" />
+  <img style="width:60%" alt = "Mo-Wilems's Pig says hello!" src="mo_hi.gif" />
   <h1>Hey, I'm Michael 🎱</h1>
 </div>
 
@@ -16,7 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=go,linux,mysql,java,bash,py,js,html,css,docker,figma,latex)](https://skillicons.dev)
 
 # PSA: Join the I2P network.
-Believe in decentralization of data? Care about anonymity? Free speech? Democracy?
+Believe in decentralization of data? Care about anonymity? Free speech? Democracy? ***I2P's right there with you.***
 
-![I2P Banner Image](bannerBackgroundImage_4sm3vfhgeeb71-1962333870.png "I2P Banner")
-[Together, we can build an internet where you can be invisible.](https://geti2p.net/en/)
+<a href= "https://geti2p.net/en/"><img style="width:50%;" alt = "I2P Banner Image" src="bannerBackgroundImage_4sm3vfhgeeb71-1962333870.png" />
