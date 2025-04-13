@@ -3,7 +3,7 @@
   <h1>Hey, I'm Michael 🎱</h1>
 </div>
 
-💻 I am a student/hobbyist programmer turning ideas to life since 2019.
+💻 I am a student/hobbyist programmer turning ideas to life since 2022.
 
 ❤️ I have a passion for web development (especially in Golang!) and I **love** making my own specialized versions of existing tools.
 
