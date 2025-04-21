@@ -1,12 +1,12 @@
 # Song of the Day: [Nude - Radiohead](https://youtu.be/BbWBRnDK_AE)
 
-
 https://github.com/user-attachments/assets/6cb8d6ef-2406-4ca0-a7c3-73a4433ad1a9
 
+<div>
+  <h1>Hey, 🎱 I'm Michael 🎱</h1>
+</div>
 
-# Hey, I'm Michael 🎱
-
-💻 I am a student/hobbyist programmer turning ideas to life since 2022.
+💻 I have been programming and in the cybersecurity space for about 4 years now, and loving every second of it :)
 
 ❤️ I have a passion for web development (especially in Golang!) and I **love** making my own specialized versions of existing tools.
 
