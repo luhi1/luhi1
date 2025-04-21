@@ -1,6 +1,6 @@
-# Song of the Day: [Nude - Radiohead](https://youtu.be/BbWBRnDK_AE)
+# Song of the Day: [Beaches - Beabadoobee](https://youtu.be/nNXSSfSmbao?start=1)
 
-https://github.com/user-attachments/assets/6cb8d6ef-2406-4ca0-a7c3-73a4433ad1a9
+https://github.com/user-attachments/assets/35d0d567-b719-43d6-b535-6ca44f04d186
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
