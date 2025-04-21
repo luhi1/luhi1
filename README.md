@@ -1,7 +1,10 @@
-<div align="center">
-  <img style="width:60%" alt = "Mo-Wilems's Pig says hello!" src="mo_hi.gif" />
-  <h1>Hey, I'm Michael 🎱</h1>
-</div>
+# Song of the Day: [Nude - Radiohead](https://youtu.be/BbWBRnDK_AE)
+
+
+https://github.com/user-attachments/assets/6cb8d6ef-2406-4ca0-a7c3-73a4433ad1a9
+
+
+# Hey, I'm Michael 🎱
 
 💻 I am a student/hobbyist programmer turning ideas to life since 2022.
 
