@@ -1,6 +1,7 @@
-# Song of the Day: [Beaches - Beabadoobee](https://youtu.be/nNXSSfSmbao?start=1)
+# Song of the Day: [K - Cigarettes After Sex](https://www.youtube.com/watch?v=L4sbDxR22z4)
 
-https://github.com/user-attachments/assets/35d0d567-b719-43d6-b535-6ca44f04d186
+https://github.com/user-attachments/assets/cbe5254a-1fa7-4c4b-a7f4-8272f5632c44
+
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
