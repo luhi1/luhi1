@@ -1,7 +1,6 @@
-# Song of the Day: [K - Cigarettes After Sex](https://www.youtube.com/watch?v=L4sbDxR22z4)
+# Song of the Day: [Slow Dancing In the Dark - Joji](https://www.youtube.com/watch?v=K3Qzzggn--s)
 
-https://github.com/user-attachments/assets/cbe5254a-1fa7-4c4b-a7f4-8272f5632c44
-
+https://github.com/user-attachments/assets/8199fcb4-f820-4936-9900-21c379da5123
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
