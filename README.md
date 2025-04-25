@@ -1,6 +1,5 @@
-# Song of the Day: [Slow Dancing In the Dark - Joji](https://www.youtube.com/watch?v=K3Qzzggn--s)
-
-https://github.com/user-attachments/assets/8199fcb4-f820-4936-9900-21c379da5123
+# Song of the Day: [The Reason - Hoobastank](https://www.youtube.com/watch?v=fV4DiAyExN0)
+https://github.com/user-attachments/assets/fd8dbaa6-ac26-42e1-a2f9-c17a1802ff80
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
