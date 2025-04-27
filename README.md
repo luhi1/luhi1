@@ -1,6 +1,6 @@
-# Song of the Day: [Big Dawgs - Hanumankind](https://www.youtube.com/watch?v=hOHKltAiKXQ)
+# Song of the Day: [Thick of It - KSI](https://m.youtube.com/watch?v=At8v_Yc044Y&pp=ygUIS3NpIHNvbmc%3D)
 
-https://github.com/user-attachments/assets/61e3229d-ee55-4c90-a258-727b4362fe9d
+https://github.com/user-attachments/assets/e2de8493-6b87-4c51-93d5-e50c424fb0c3
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
