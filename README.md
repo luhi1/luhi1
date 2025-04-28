@@ -1,6 +1,6 @@
-# Song of the Day: [Thick of It - KSI](https://m.youtube.com/watch?v=At8v_Yc044Y&pp=ygUIS3NpIHNvbmc%3D)
+# Song of the Day: [Die with A Smile - Lady Gaga, Bruno Mars]([https://m.youtube.com/watch?v=At8v_Yc044Y&pp=ygUIS3NpIHNvbmc%3D](https://www.youtube.com/watch?v=kPa7bsKwL-c))
 
-https://github.com/user-attachments/assets/e2de8493-6b87-4c51-93d5-e50c424fb0c3
+https://github.com/user-attachments/assets/798810f7-dd66-4231-b0ce-2afc1cad415b
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/e2de8493-6b87-4c51-93d5-e50c424fb0c3
 
 * I am learning about cybersecurity as I am deeply passionate about anonymity and digital privacy. 
 
-* I am currently working on a utility for creating fork-bombs (so if you're a pentester give it a shot 😉) based on my promposal 2025.
+* I am currently working on hosting a chat application for a (currently private) webserver for use in our club.
 
 ## My Tech-Stack
 
