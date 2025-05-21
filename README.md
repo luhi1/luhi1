@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/798810f7-dd66-4231-b0ce-2afc1cad415b
 
 * I am learning about cybersecurity as I am deeply passionate about anonymity and digital privacy. 
 
-* I am currently working on hosting a chat application for a (currently private) webserver for use in our club.
+* I have been working on a personal financial tracker for the past few weeks, haven't been commiting because of privacy concerns... Be back on here soon!
 
 ## My Tech-Stack
 
