@@ -1,6 +1,6 @@
-# Song of the Day: [Die with A Smile - Lady Gaga, Bruno Mars]([https://m.youtube.com/watch?v=At8v_Yc044Y&pp=ygUIS3NpIHNvbmc%3D](https://www.youtube.com/watch?v=kPa7bsKwL-c))
+# Song of the Day: [Faust Arp - Radiohead](https://www.youtube.com/watch?v=PRc0iMRoIoc)
 
-https://github.com/user-attachments/assets/798810f7-dd66-4231-b0ce-2afc1cad415b
+https://github.com/user-attachments/assets/9e4671c9-62aa-4670-aa32-1b17cfbd6c30
 
 <div>
   <h1> 👋 Hey, I'm Michael 👋 </h1>
